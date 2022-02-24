@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      kumbh: ['Kumbh Sans', 'sans-serif'],
+    }
   },
   plugins: [],
 }
